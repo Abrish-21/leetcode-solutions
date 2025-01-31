@@ -32,4 +32,12 @@
 |  |
 | ------- |
 | [2561-number-of-distinct-averages](https://github.com/Abrish-21/leetcode-solutions/tree/master/2561-number-of-distinct-averages) |
+## Math
+|  |
+| ------- |
+| [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Abrish-21/leetcode-solutions/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
+## Simulation
+|  |
+| ------- |
+| [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Abrish-21/leetcode-solutions/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 <!---LeetCode Topics End-->
