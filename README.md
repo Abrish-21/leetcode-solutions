@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [2561-number-of-distinct-averages](https://github.com/Abrish-21/leetcode-solutions/tree/master/2561-number-of-distinct-averages) |
+| [3651-transformed-array](https://github.com/Abrish-21/leetcode-solutions/tree/master/3651-transformed-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,4 +41,5 @@
 |  |
 | ------- |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Abrish-21/leetcode-solutions/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [3651-transformed-array](https://github.com/Abrish-21/leetcode-solutions/tree/master/3651-transformed-array) |
 <!---LeetCode Topics End-->
