@@ -6,6 +6,7 @@
 | ------- |
 | [0071-simplify-path](https://github.com/Abrish-21/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0389-find-the-difference](https://github.com/Abrish-21/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0812-rotate-string](https://github.com/Abrish-21/leetcode-solutions/tree/master/0812-rotate-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Abrish-21/leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Abrish-21/leetcode-solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Stack
@@ -46,4 +47,8 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Abrish-21/leetcode-solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Abrish-21/leetcode-solutions/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [3651-transformed-array](https://github.com/Abrish-21/leetcode-solutions/tree/master/3651-transformed-array) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Abrish-21/leetcode-solutions/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
