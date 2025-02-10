@@ -33,6 +33,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Abrish-21/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Abrish-21/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [1720-crawler-log-folder](https://github.com/Abrish-21/leetcode-solutions/tree/master/1720-crawler-log-folder) |
 | [2561-number-of-distinct-averages](https://github.com/Abrish-21/leetcode-solutions/tree/master/2561-number-of-distinct-averages) |
@@ -40,6 +41,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Abrish-21/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [2561-number-of-distinct-averages](https://github.com/Abrish-21/leetcode-solutions/tree/master/2561-number-of-distinct-averages) |
 ## Math
 |  |
