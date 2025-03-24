@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Abrish-21/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [1364-tuple-with-same-product](https://github.com/Abrish-21/leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 | [2561-number-of-distinct-averages](https://github.com/Abrish-21/leetcode-solutions/tree/master/2561-number-of-distinct-averages) |
 ## Bit Manipulation
 |  |
@@ -38,6 +39,7 @@
 | [0053-maximum-subarray](https://github.com/Abrish-21/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0498-diagonal-traverse](https://github.com/Abrish-21/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/Abrish-21/leetcode-solutions/tree/master/0898-transpose-matrix) |
+| [1364-tuple-with-same-product](https://github.com/Abrish-21/leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 | [1720-crawler-log-folder](https://github.com/Abrish-21/leetcode-solutions/tree/master/1720-crawler-log-folder) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Abrish-21/leetcode-solutions/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2561-number-of-distinct-averages](https://github.com/Abrish-21/leetcode-solutions/tree/master/2561-number-of-distinct-averages) |
@@ -79,4 +81,8 @@
 | [0498-diagonal-traverse](https://github.com/Abrish-21/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/Abrish-21/leetcode-solutions/tree/master/0898-transpose-matrix) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Abrish-21/leetcode-solutions/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+## Counting
+|  |
+| ------- |
+| [1364-tuple-with-same-product](https://github.com/Abrish-21/leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 <!---LeetCode Topics End-->
