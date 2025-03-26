@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abrish-21/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0032-longest-valid-parentheses](https://github.com/Abrish-21/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Abrish-21/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0389-find-the-difference](https://github.com/Abrish-21/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Abrish-21/leetcode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -15,6 +16,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Abrish-21/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Abrish-21/leetcode-solutions/tree/master/0071-simplify-path) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Abrish-21/leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1720-crawler-log-folder](https://github.com/Abrish-21/leetcode-solutions/tree/master/1720-crawler-log-folder) |
@@ -87,6 +89,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Abrish-21/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Abrish-21/leetcode-solutions/tree/master/0053-maximum-subarray) |
 ## Matrix
 |  |
