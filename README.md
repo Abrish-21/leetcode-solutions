@@ -6,6 +6,7 @@
 | ------- |
 | [0071-simplify-path](https://github.com/Abrish-21/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0389-find-the-difference](https://github.com/Abrish-21/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Abrish-21/leetcode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0812-rotate-string](https://github.com/Abrish-21/leetcode-solutions/tree/master/0812-rotate-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Abrish-21/leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1720-crawler-log-folder](https://github.com/Abrish-21/leetcode-solutions/tree/master/1720-crawler-log-folder) |
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Abrish-21/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Abrish-21/leetcode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1364-tuple-with-same-product](https://github.com/Abrish-21/leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 | [2561-number-of-distinct-averages](https://github.com/Abrish-21/leetcode-solutions/tree/master/2561-number-of-distinct-averages) |
 ## Bit Manipulation
@@ -70,6 +72,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Abrish-21/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Abrish-21/leetcode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -85,4 +88,8 @@
 |  |
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/Abrish-21/leetcode-solutions/tree/master/1364-tuple-with-same-product) |
+## Sliding Window
+|  |
+| ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Abrish-21/leetcode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 <!---LeetCode Topics End-->
