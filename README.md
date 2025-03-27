@@ -51,6 +51,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abrish-21/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Abrish-21/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Abrish-21/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0209-minimum-size-subarray-sum](https://github.com/Abrish-21/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0498-diagonal-traverse](https://github.com/Abrish-21/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0643-maximum-average-subarray-i](https://github.com/Abrish-21/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Abrish-21/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
@@ -111,6 +112,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abrish-21/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Abrish-21/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Abrish-21/leetcode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abrish-21/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Abrish-21/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -119,6 +121,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Abrish-21/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/Abrish-21/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Abrish-21/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 ## Heap (Priority Queue)
@@ -128,6 +131,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Abrish-21/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Abrish-21/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 ## Backtracking
 |  |
