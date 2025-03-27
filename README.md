@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Abrish-21/leetcode-solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Abrish-21/leetcode-solutions/tree/master/0018-4sum) |
 | [0389-find-the-difference](https://github.com/Abrish-21/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0658-find-k-closest-elements](https://github.com/Abrish-21/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [2561-number-of-distinct-averages](https://github.com/Abrish-21/leetcode-solutions/tree/master/2561-number-of-distinct-averages) |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Abrish-21/leetcode-solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Abrish-21/leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abrish-21/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Abrish-21/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Abrish-21/leetcode-solutions/tree/master/0053-maximum-subarray) |
@@ -68,6 +70,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Abrish-21/leetcode-solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Abrish-21/leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abrish-21/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0567-permutation-in-string](https://github.com/Abrish-21/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/Abrish-21/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
