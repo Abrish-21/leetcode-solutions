@@ -69,6 +69,7 @@
 | [0658-find-k-closest-elements](https://github.com/Abrish-21/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Abrish-21/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0898-transpose-matrix](https://github.com/Abrish-21/leetcode-solutions/tree/master/0898-transpose-matrix) |
+| [1127-last-stone-weight](https://github.com/Abrish-21/leetcode-solutions/tree/master/1127-last-stone-weight) |
 | [1364-tuple-with-same-product](https://github.com/Abrish-21/leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 | [1720-crawler-log-folder](https://github.com/Abrish-21/leetcode-solutions/tree/master/1720-crawler-log-folder) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Abrish-21/leetcode-solutions/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -146,6 +147,7 @@
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Abrish-21/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+| [1127-last-stone-weight](https://github.com/Abrish-21/leetcode-solutions/tree/master/1127-last-stone-weight) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Abrish-21/leetcode-solutions/tree/master/2094-remove-stones-to-minimize-the-total) |
 ## Prefix Sum
 |  |
