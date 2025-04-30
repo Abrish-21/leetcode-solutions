@@ -147,6 +147,7 @@
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Abrish-21/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Abrish-21/leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1127-last-stone-weight](https://github.com/Abrish-21/leetcode-solutions/tree/master/1127-last-stone-weight) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Abrish-21/leetcode-solutions/tree/master/2094-remove-stones-to-minimize-the-total) |
 ## Prefix Sum
@@ -163,12 +164,14 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Abrish-21/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Abrish-21/leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Abrish-21/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abrish-21/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abrish-21/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Abrish-21/leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -181,8 +184,17 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Abrish-21/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abrish-21/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abrish-21/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Abrish-21/leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Greedy
 |  |
 | ------- |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Abrish-21/leetcode-solutions/tree/master/2094-remove-stones-to-minimize-the-total) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Abrish-21/leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Abrish-21/leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
