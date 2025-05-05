@@ -182,6 +182,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Abrish-21/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abrish-21/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Abrish-21/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0801-is-graph-bipartite](https://github.com/Abrish-21/leetcode-solutions/tree/master/0801-is-graph-bipartite) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Abrish-21/leetcode-solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -209,13 +210,16 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/Abrish-21/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Abrish-21/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0801-is-graph-bipartite](https://github.com/Abrish-21/leetcode-solutions/tree/master/0801-is-graph-bipartite) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Abrish-21/leetcode-solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
 |  |
 | ------- |
+| [0801-is-graph-bipartite](https://github.com/Abrish-21/leetcode-solutions/tree/master/0801-is-graph-bipartite) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Abrish-21/leetcode-solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
 |  |
 | ------- |
+| [0801-is-graph-bipartite](https://github.com/Abrish-21/leetcode-solutions/tree/master/0801-is-graph-bipartite) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Abrish-21/leetcode-solutions/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
