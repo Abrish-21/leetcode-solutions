@@ -175,6 +175,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Abrish-21/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Abrish-21/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Abrish-21/leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/Abrish-21/leetcode-solutions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Abrish-21/leetcode-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -185,6 +186,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Abrish-21/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Abrish-21/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0801-is-graph-bipartite](https://github.com/Abrish-21/leetcode-solutions/tree/master/0801-is-graph-bipartite) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/Abrish-21/leetcode-solutions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Abrish-21/leetcode-solutions/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Abrish-21/leetcode-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
@@ -197,6 +199,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Abrish-21/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Abrish-21/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Abrish-21/leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/Abrish-21/leetcode-solutions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Abrish-21/leetcode-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Greedy
 |  |
