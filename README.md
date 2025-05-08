@@ -188,6 +188,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Abrish-21/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abrish-21/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Abrish-21/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0547-number-of-provinces](https://github.com/Abrish-21/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0690-employee-importance](https://github.com/Abrish-21/leetcode-solutions/tree/master/0690-employee-importance) |
 | [0801-is-graph-bipartite](https://github.com/Abrish-21/leetcode-solutions/tree/master/0801-is-graph-bipartite) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Abrish-21/leetcode-solutions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
@@ -223,6 +224,7 @@
 | [0101-symmetric-tree](https://github.com/Abrish-21/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Abrish-21/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Abrish-21/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0547-number-of-provinces](https://github.com/Abrish-21/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0690-employee-importance](https://github.com/Abrish-21/leetcode-solutions/tree/master/0690-employee-importance) |
 | [0801-is-graph-bipartite](https://github.com/Abrish-21/leetcode-solutions/tree/master/0801-is-graph-bipartite) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Abrish-21/leetcode-solutions/tree/master/2121-find-if-path-exists-in-graph) |
@@ -230,11 +232,13 @@
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Abrish-21/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Abrish-21/leetcode-solutions/tree/master/0801-is-graph-bipartite) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Abrish-21/leetcode-solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Abrish-21/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Abrish-21/leetcode-solutions/tree/master/0801-is-graph-bipartite) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Abrish-21/leetcode-solutions/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
