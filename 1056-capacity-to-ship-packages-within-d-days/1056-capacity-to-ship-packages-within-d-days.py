@@ -8,7 +8,7 @@ class Solution:
                 if curr_wei > capacity:
                     curr_wei = wei
                     day += 1
-                if day > days:
+            if day > days:
                     return False
             return True
 
