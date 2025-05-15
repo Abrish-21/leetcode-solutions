@@ -46,6 +46,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Abrish-21/leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0260-single-number-iii](https://github.com/Abrish-21/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/Abrish-21/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/Abrish-21/leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Sorting
@@ -67,6 +68,7 @@
 | [0053-maximum-subarray](https://github.com/Abrish-21/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0200-number-of-islands](https://github.com/Abrish-21/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Abrish-21/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0260-single-number-iii](https://github.com/Abrish-21/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0303-range-sum-query-immutable](https://github.com/Abrish-21/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0498-diagonal-traverse](https://github.com/Abrish-21/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0643-maximum-average-subarray-i](https://github.com/Abrish-21/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
