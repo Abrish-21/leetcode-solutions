@@ -54,6 +54,7 @@
 | [0389-find-the-difference](https://github.com/Abrish-21/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/Abrish-21/leetcode-solutions/tree/master/0461-hamming-distance) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Abrish-21/leetcode-solutions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [2621-find-xor-beauty-of-array](https://github.com/Abrish-21/leetcode-solutions/tree/master/2621-find-xor-beauty-of-array) |
 ## Sorting
 |  |
 | ------- |
@@ -94,6 +95,7 @@
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Abrish-21/leetcode-solutions/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Abrish-21/leetcode-solutions/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2561-number-of-distinct-averages](https://github.com/Abrish-21/leetcode-solutions/tree/master/2561-number-of-distinct-averages) |
+| [2621-find-xor-beauty-of-array](https://github.com/Abrish-21/leetcode-solutions/tree/master/2621-find-xor-beauty-of-array) |
 | [3651-transformed-array](https://github.com/Abrish-21/leetcode-solutions/tree/master/3651-transformed-array) |
 ## Two Pointers
 |  |
@@ -113,6 +115,7 @@
 | [0268-missing-number](https://github.com/Abrish-21/leetcode-solutions/tree/master/0268-missing-number) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Abrish-21/leetcode-solutions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Abrish-21/leetcode-solutions/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2621-find-xor-beauty-of-array](https://github.com/Abrish-21/leetcode-solutions/tree/master/2621-find-xor-beauty-of-array) |
 ## Simulation
 |  |
 | ------- |
