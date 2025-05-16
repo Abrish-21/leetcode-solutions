@@ -54,6 +54,7 @@
 | [0389-find-the-difference](https://github.com/Abrish-21/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/Abrish-21/leetcode-solutions/tree/master/0461-hamming-distance) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Abrish-21/leetcode-solutions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [2478-longest-nice-subarray](https://github.com/Abrish-21/leetcode-solutions/tree/master/2478-longest-nice-subarray) |
 | [2621-find-xor-beauty-of-array](https://github.com/Abrish-21/leetcode-solutions/tree/master/2621-find-xor-beauty-of-array) |
 ## Sorting
 |  |
@@ -94,6 +95,7 @@
 | [1720-crawler-log-folder](https://github.com/Abrish-21/leetcode-solutions/tree/master/1720-crawler-log-folder) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Abrish-21/leetcode-solutions/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Abrish-21/leetcode-solutions/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2478-longest-nice-subarray](https://github.com/Abrish-21/leetcode-solutions/tree/master/2478-longest-nice-subarray) |
 | [2561-number-of-distinct-averages](https://github.com/Abrish-21/leetcode-solutions/tree/master/2561-number-of-distinct-averages) |
 | [2621-find-xor-beauty-of-array](https://github.com/Abrish-21/leetcode-solutions/tree/master/2621-find-xor-beauty-of-array) |
 | [3651-transformed-array](https://github.com/Abrish-21/leetcode-solutions/tree/master/3651-transformed-array) |
@@ -165,6 +167,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Abrish-21/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Abrish-21/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Abrish-21/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
+| [2478-longest-nice-subarray](https://github.com/Abrish-21/leetcode-solutions/tree/master/2478-longest-nice-subarray) |
 ## Binary Search
 |  |
 | ------- |
