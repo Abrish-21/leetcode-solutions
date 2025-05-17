@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Abrish-21/leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/Abrish-21/leetcode-solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0260-single-number-iii](https://github.com/Abrish-21/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Abrish-21/leetcode-solutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Abrish-21/leetcode-solutions/tree/master/0338-counting-bits) |
