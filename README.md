@@ -89,6 +89,7 @@
 | [0898-transpose-matrix](https://github.com/Abrish-21/leetcode-solutions/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Abrish-21/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/Abrish-21/leetcode-solutions/tree/master/0948-sort-an-array) |
+| [1036-rotting-oranges](https://github.com/Abrish-21/leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Abrish-21/leetcode-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1127-last-stone-weight](https://github.com/Abrish-21/leetcode-solutions/tree/master/1127-last-stone-weight) |
 | [1364-tuple-with-same-product](https://github.com/Abrish-21/leetcode-solutions/tree/master/1364-tuple-with-same-product) |
@@ -151,6 +152,7 @@
 | [0498-diagonal-traverse](https://github.com/Abrish-21/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0695-max-area-of-island](https://github.com/Abrish-21/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0898-transpose-matrix](https://github.com/Abrish-21/leetcode-solutions/tree/master/0898-transpose-matrix) |
+| [1036-rotting-oranges](https://github.com/Abrish-21/leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Abrish-21/leetcode-solutions/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Counting
 |  |
@@ -266,6 +268,7 @@
 | [0690-employee-importance](https://github.com/Abrish-21/leetcode-solutions/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Abrish-21/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Abrish-21/leetcode-solutions/tree/master/0801-is-graph-bipartite) |
+| [1036-rotting-oranges](https://github.com/Abrish-21/leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Abrish-21/leetcode-solutions/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Abrish-21/leetcode-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Union Find
