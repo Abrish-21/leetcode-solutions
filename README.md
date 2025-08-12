@@ -73,6 +73,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Abrish-21/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Abrish-21/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Abrish-21/leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abrish-21/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -110,6 +111,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Abrish-21/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Abrish-21/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Abrish-21/leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abrish-21/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -258,6 +260,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Abrish-21/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/Abrish-21/leetcode-solutions/tree/master/0179-largest-number) |
 | [0917-boats-to-save-people](https://github.com/Abrish-21/leetcode-solutions/tree/master/0917-boats-to-save-people) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Abrish-21/leetcode-solutions/tree/master/2094-remove-stones-to-minimize-the-total) |
