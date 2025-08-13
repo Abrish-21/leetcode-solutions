@@ -73,6 +73,7 @@
 | [0658-find-k-closest-elements](https://github.com/Abrish-21/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0917-boats-to-save-people](https://github.com/Abrish-21/leetcode-solutions/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Abrish-21/leetcode-solutions/tree/master/0948-sort-an-array) |
+| [1018-largest-perimeter-triangle](https://github.com/Abrish-21/leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
 | [2561-number-of-distinct-averages](https://github.com/Abrish-21/leetcode-solutions/tree/master/2561-number-of-distinct-averages) |
 ## Array
 |  |
@@ -100,6 +101,7 @@
 | [0907-koko-eating-bananas](https://github.com/Abrish-21/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/Abrish-21/leetcode-solutions/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Abrish-21/leetcode-solutions/tree/master/0948-sort-an-array) |
+| [1018-largest-perimeter-triangle](https://github.com/Abrish-21/leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1036-rotting-oranges](https://github.com/Abrish-21/leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Abrish-21/leetcode-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1127-last-stone-weight](https://github.com/Abrish-21/leetcode-solutions/tree/master/1127-last-stone-weight) |
@@ -138,6 +140,7 @@
 | [0189-rotate-array](https://github.com/Abrish-21/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Abrish-21/leetcode-solutions/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/Abrish-21/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
+| [1018-largest-perimeter-triangle](https://github.com/Abrish-21/leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Abrish-21/leetcode-solutions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Abrish-21/leetcode-solutions/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2621-find-xor-beauty-of-array](https://github.com/Abrish-21/leetcode-solutions/tree/master/2621-find-xor-beauty-of-array) |
@@ -275,6 +278,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Abrish-21/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/Abrish-21/leetcode-solutions/tree/master/0768-partition-labels) |
 | [0917-boats-to-save-people](https://github.com/Abrish-21/leetcode-solutions/tree/master/0917-boats-to-save-people) |
+| [1018-largest-perimeter-triangle](https://github.com/Abrish-21/leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Abrish-21/leetcode-solutions/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [3195-separate-black-and-white-balls](https://github.com/Abrish-21/leetcode-solutions/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search Tree
