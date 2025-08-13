@@ -30,6 +30,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Abrish-21/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abrish-21/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abrish-21/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Abrish-21/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Abrish-21/leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1720-crawler-log-folder](https://github.com/Abrish-21/leetcode-solutions/tree/master/1720-crawler-log-folder) |
 ## Hash Table
@@ -86,6 +87,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abrish-21/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Abrish-21/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Abrish-21/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Abrish-21/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0179-largest-number](https://github.com/Abrish-21/leetcode-solutions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Abrish-21/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Abrish-21/leetcode-solutions/tree/master/0200-number-of-islands) |
@@ -139,6 +141,7 @@
 | [0012-integer-to-roman](https://github.com/Abrish-21/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Abrish-21/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Abrish-21/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Abrish-21/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Abrish-21/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Abrish-21/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Abrish-21/leetcode-solutions/tree/master/0268-missing-number) |
