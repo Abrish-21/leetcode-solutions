@@ -107,6 +107,7 @@
 | [0917-boats-to-save-people](https://github.com/Abrish-21/leetcode-solutions/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Abrish-21/leetcode-solutions/tree/master/0948-sort-an-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Abrish-21/leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1028-interval-list-intersections](https://github.com/Abrish-21/leetcode-solutions/tree/master/1028-interval-list-intersections) |
 | [1036-rotting-oranges](https://github.com/Abrish-21/leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Abrish-21/leetcode-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1127-last-stone-weight](https://github.com/Abrish-21/leetcode-solutions/tree/master/1127-last-stone-weight) |
@@ -133,6 +134,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Abrish-21/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/Abrish-21/leetcode-solutions/tree/master/0768-partition-labels) |
 | [0917-boats-to-save-people](https://github.com/Abrish-21/leetcode-solutions/tree/master/0917-boats-to-save-people) |
+| [1028-interval-list-intersections](https://github.com/Abrish-21/leetcode-solutions/tree/master/1028-interval-list-intersections) |
 | [2561-number-of-distinct-averages](https://github.com/Abrish-21/leetcode-solutions/tree/master/2561-number-of-distinct-averages) |
 | [3195-separate-black-and-white-balls](https://github.com/Abrish-21/leetcode-solutions/tree/master/3195-separate-black-and-white-balls) |
 ## Math
@@ -347,4 +349,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Abrish-21/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Line Sweep
+|  |
+| ------- |
+| [1028-interval-list-intersections](https://github.com/Abrish-21/leetcode-solutions/tree/master/1028-interval-list-intersections) |
 <!---LeetCode Topics End-->
