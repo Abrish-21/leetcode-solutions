@@ -362,4 +362,8 @@
 |  |
 | ------- |
 | [1028-interval-list-intersections](https://github.com/Abrish-21/leetcode-solutions/tree/master/1028-interval-list-intersections) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Abrish-21/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
