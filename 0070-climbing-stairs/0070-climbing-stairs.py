@@ -1,14 +1,12 @@
-class Solution(object):
-    def climbStairs(self, n):
-        """
-        :type n: int
-        :rtype: int
-        """
-        if n <= 2:
-            return n
-
-        first, second = 1, 2
-        for _ in range(3, n + 1):
-            first, second = second, first + second  # Fibonacci update
-
-        return second
+class Solution:
+    def __init__(self):
+        self.memo = defaultdict(int)
+    def climbStairs(self, n: int) -> int:
+        if n == 1:
+            return 1
+        if n == 2:
+            return 2
+        if n not in self.memo:
+            self.memo[n]  =  self.climbStairs(n -1) + self.climbStairs(n - 2)
+        return self.memo[n]
+        
