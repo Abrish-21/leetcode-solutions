@@ -155,6 +155,7 @@
 | [0189-rotate-array](https://github.com/Abrish-21/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Abrish-21/leetcode-solutions/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/Abrish-21/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
+| [1013-fibonacci-number](https://github.com/Abrish-21/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Abrish-21/leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Abrish-21/leetcode-solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Abrish-21/leetcode-solutions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -185,6 +186,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Abrish-21/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Abrish-21/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0338-counting-bits](https://github.com/Abrish-21/leetcode-solutions/tree/master/0338-counting-bits) |
+| [1013-fibonacci-number](https://github.com/Abrish-21/leetcode-solutions/tree/master/1013-fibonacci-number) |
 ## Matrix
 |  |
 | ------- |
@@ -381,8 +383,13 @@
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Abrish-21/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
+| [1013-fibonacci-number](https://github.com/Abrish-21/leetcode-solutions/tree/master/1013-fibonacci-number) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [1582-design-browser-history](https://github.com/Abrish-21/leetcode-solutions/tree/master/1582-design-browser-history) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Abrish-21/leetcode-solutions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
