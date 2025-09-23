@@ -22,6 +22,7 @@
 | [1341-split-a-string-in-balanced-strings](https://github.com/Abrish-21/leetcode-solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1720-crawler-log-folder](https://github.com/Abrish-21/leetcode-solutions/tree/master/1720-crawler-log-folder) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Abrish-21/leetcode-solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [3055-maximum-odd-binary-number](https://github.com/Abrish-21/leetcode-solutions/tree/master/3055-maximum-odd-binary-number) |
 | [3195-separate-black-and-white-balls](https://github.com/Abrish-21/leetcode-solutions/tree/master/3195-separate-black-and-white-balls) |
 ## Stack
 |  |
@@ -168,6 +169,7 @@
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Abrish-21/leetcode-solutions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Abrish-21/leetcode-solutions/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2621-find-xor-beauty-of-array](https://github.com/Abrish-21/leetcode-solutions/tree/master/2621-find-xor-beauty-of-array) |
+| [3055-maximum-odd-binary-number](https://github.com/Abrish-21/leetcode-solutions/tree/master/3055-maximum-odd-binary-number) |
 ## Simulation
 |  |
 | ------- |
@@ -321,6 +323,7 @@
 | [1341-split-a-string-in-balanced-strings](https://github.com/Abrish-21/leetcode-solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Abrish-21/leetcode-solutions/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Abrish-21/leetcode-solutions/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [3055-maximum-odd-binary-number](https://github.com/Abrish-21/leetcode-solutions/tree/master/3055-maximum-odd-binary-number) |
 | [3195-separate-black-and-white-balls](https://github.com/Abrish-21/leetcode-solutions/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search Tree
 |  |
