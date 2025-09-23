@@ -122,6 +122,7 @@
 | [1582-design-browser-history](https://github.com/Abrish-21/leetcode-solutions/tree/master/1582-design-browser-history) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Abrish-21/leetcode-solutions/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1720-crawler-log-folder](https://github.com/Abrish-21/leetcode-solutions/tree/master/1720-crawler-log-folder) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Abrish-21/leetcode-solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Abrish-21/leetcode-solutions/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Abrish-21/leetcode-solutions/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2478-longest-nice-subarray](https://github.com/Abrish-21/leetcode-solutions/tree/master/2478-longest-nice-subarray) |
@@ -196,6 +197,7 @@
 | [0338-counting-bits](https://github.com/Abrish-21/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/Abrish-21/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [1013-fibonacci-number](https://github.com/Abrish-21/leetcode-solutions/tree/master/1013-fibonacci-number) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Abrish-21/leetcode-solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Matrix
 |  |
 | ------- |
