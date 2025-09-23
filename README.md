@@ -150,6 +150,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Abrish-21/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Abrish-21/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Abrish-21/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Abrish-21/leetcode-solutions/tree/master/0048-rotate-image) |
@@ -382,6 +383,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Abrish-21/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Abrish-21/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0203-remove-linked-list-elements](https://github.com/Abrish-21/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Abrish-21/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
@@ -391,6 +393,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Abrish-21/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/Abrish-21/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [1013-fibonacci-number](https://github.com/Abrish-21/leetcode-solutions/tree/master/1013-fibonacci-number) |
 ## Doubly-Linked List
