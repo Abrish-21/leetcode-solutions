@@ -19,6 +19,7 @@
 | [0768-partition-labels](https://github.com/Abrish-21/leetcode-solutions/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/Abrish-21/leetcode-solutions/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/Abrish-21/leetcode-solutions/tree/master/0874-backspace-string-compare) |
+| [0886-score-of-parentheses](https://github.com/Abrish-21/leetcode-solutions/tree/master/0886-score-of-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Abrish-21/leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Abrish-21/leetcode-solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1720-crawler-log-folder](https://github.com/Abrish-21/leetcode-solutions/tree/master/1720-crawler-log-folder) |
@@ -35,6 +36,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Abrish-21/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abrish-21/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0874-backspace-string-compare](https://github.com/Abrish-21/leetcode-solutions/tree/master/0874-backspace-string-compare) |
+| [0886-score-of-parentheses](https://github.com/Abrish-21/leetcode-solutions/tree/master/0886-score-of-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Abrish-21/leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1582-design-browser-history](https://github.com/Abrish-21/leetcode-solutions/tree/master/1582-design-browser-history) |
 | [1720-crawler-log-folder](https://github.com/Abrish-21/leetcode-solutions/tree/master/1720-crawler-log-folder) |
