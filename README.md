@@ -22,6 +22,7 @@
 | [0886-score-of-parentheses](https://github.com/Abrish-21/leetcode-solutions/tree/master/0886-score-of-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Abrish-21/leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Abrish-21/leetcode-solutions/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Abrish-21/leetcode-solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1720-crawler-log-folder](https://github.com/Abrish-21/leetcode-solutions/tree/master/1720-crawler-log-folder) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Abrish-21/leetcode-solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [3055-maximum-odd-binary-number](https://github.com/Abrish-21/leetcode-solutions/tree/master/3055-maximum-odd-binary-number) |
@@ -193,6 +194,7 @@
 | [0498-diagonal-traverse](https://github.com/Abrish-21/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0874-backspace-string-compare](https://github.com/Abrish-21/leetcode-solutions/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/Abrish-21/leetcode-solutions/tree/master/0898-transpose-matrix) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Abrish-21/leetcode-solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Abrish-21/leetcode-solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Abrish-21/leetcode-solutions/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [3651-transformed-array](https://github.com/Abrish-21/leetcode-solutions/tree/master/3651-transformed-array) |
@@ -429,6 +431,7 @@
 | [0002-add-two-numbers](https://github.com/Abrish-21/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/Abrish-21/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [1013-fibonacci-number](https://github.com/Abrish-21/leetcode-solutions/tree/master/1013-fibonacci-number) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Abrish-21/leetcode-solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Doubly-Linked List
 |  |
 | ------- |
