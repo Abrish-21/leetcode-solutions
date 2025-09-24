@@ -262,6 +262,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Abrish-21/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Abrish-21/leetcode-solutions/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Abrish-21/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/Abrish-21/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/Abrish-21/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Abrish-21/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
@@ -452,4 +453,8 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Abrish-21/leetcode-solutions/tree/master/0739-daily-temperatures) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Abrish-21/leetcode-solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
