@@ -186,6 +186,7 @@
 | [0797-rabbits-in-forest](https://github.com/Abrish-21/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/Abrish-21/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Abrish-21/leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1236-n-th-tribonacci-number](https://github.com/Abrish-21/leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Abrish-21/leetcode-solutions/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Abrish-21/leetcode-solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Abrish-21/leetcode-solutions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -225,6 +226,7 @@
 | [0338-counting-bits](https://github.com/Abrish-21/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/Abrish-21/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [1013-fibonacci-number](https://github.com/Abrish-21/leetcode-solutions/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Abrish-21/leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Abrish-21/leetcode-solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Matrix
 |  |
@@ -445,6 +447,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/Abrish-21/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Abrish-21/leetcode-solutions/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Abrish-21/leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
 ## Monotonic Stack
 |  |
 | ------- |
