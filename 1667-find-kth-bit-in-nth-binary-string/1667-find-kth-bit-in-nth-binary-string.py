@@ -17,7 +17,6 @@ class Solution:
             nxt = find(n-1)
             return nxt + "1" + reverse(invert(nxt))
         result = find(n)
-        print(result)
         return result[k-1]
         
 
