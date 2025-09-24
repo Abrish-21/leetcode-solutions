@@ -35,6 +35,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Abrish-21/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abrish-21/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abrish-21/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0739-daily-temperatures](https://github.com/Abrish-21/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/Abrish-21/leetcode-solutions/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/Abrish-21/leetcode-solutions/tree/master/0886-score-of-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Abrish-21/leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -118,6 +119,7 @@
 | [0690-employee-importance](https://github.com/Abrish-21/leetcode-solutions/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Abrish-21/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/Abrish-21/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0739-daily-temperatures](https://github.com/Abrish-21/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0797-rabbits-in-forest](https://github.com/Abrish-21/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/Abrish-21/leetcode-solutions/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Abrish-21/leetcode-solutions/tree/master/0898-transpose-matrix) |
@@ -436,4 +438,8 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/Abrish-21/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Abrish-21/leetcode-solutions/tree/master/1013-fibonacci-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Abrish-21/leetcode-solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
