@@ -86,6 +86,7 @@
 | [0917-boats-to-save-people](https://github.com/Abrish-21/leetcode-solutions/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Abrish-21/leetcode-solutions/tree/master/0948-sort-an-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Abrish-21/leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1095-two-city-scheduling](https://github.com/Abrish-21/leetcode-solutions/tree/master/1095-two-city-scheduling) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Abrish-21/leetcode-solutions/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [2561-number-of-distinct-averages](https://github.com/Abrish-21/leetcode-solutions/tree/master/2561-number-of-distinct-averages) |
 ## Array
@@ -127,6 +128,7 @@
 | [1028-interval-list-intersections](https://github.com/Abrish-21/leetcode-solutions/tree/master/1028-interval-list-intersections) |
 | [1036-rotting-oranges](https://github.com/Abrish-21/leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Abrish-21/leetcode-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1095-two-city-scheduling](https://github.com/Abrish-21/leetcode-solutions/tree/master/1095-two-city-scheduling) |
 | [1127-last-stone-weight](https://github.com/Abrish-21/leetcode-solutions/tree/master/1127-last-stone-weight) |
 | [1364-tuple-with-same-product](https://github.com/Abrish-21/leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Abrish-21/leetcode-solutions/tree/master/1477-product-of-the-last-k-numbers) |
@@ -339,6 +341,7 @@
 | [0890-lemonade-change](https://github.com/Abrish-21/leetcode-solutions/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/Abrish-21/leetcode-solutions/tree/master/0917-boats-to-save-people) |
 | [1018-largest-perimeter-triangle](https://github.com/Abrish-21/leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1095-two-city-scheduling](https://github.com/Abrish-21/leetcode-solutions/tree/master/1095-two-city-scheduling) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Abrish-21/leetcode-solutions/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Abrish-21/leetcode-solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Abrish-21/leetcode-solutions/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
