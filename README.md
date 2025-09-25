@@ -321,6 +321,7 @@
 | [0690-employee-importance](https://github.com/Abrish-21/leetcode-solutions/tree/master/0690-employee-importance) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Abrish-21/leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Abrish-21/leetcode-solutions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/Abrish-21/leetcode-solutions/tree/master/1492-time-needed-to-inform-all-employees) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Abrish-21/leetcode-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -337,6 +338,7 @@
 | [0801-is-graph-bipartite](https://github.com/Abrish-21/leetcode-solutions/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/Abrish-21/leetcode-solutions/tree/master/0871-keys-and-rooms) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Abrish-21/leetcode-solutions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/Abrish-21/leetcode-solutions/tree/master/1492-time-needed-to-inform-all-employees) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Abrish-21/leetcode-solutions/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Abrish-21/leetcode-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
@@ -394,6 +396,7 @@
 | [0801-is-graph-bipartite](https://github.com/Abrish-21/leetcode-solutions/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/Abrish-21/leetcode-solutions/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/Abrish-21/leetcode-solutions/tree/master/1036-rotting-oranges) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/Abrish-21/leetcode-solutions/tree/master/1492-time-needed-to-inform-all-employees) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Abrish-21/leetcode-solutions/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Abrish-21/leetcode-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Union Find
