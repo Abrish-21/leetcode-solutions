@@ -11,6 +11,7 @@
 | [0071-simplify-path](https://github.com/Abrish-21/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0179-largest-number](https://github.com/Abrish-21/leetcode-solutions/tree/master/0179-largest-number) |
 | [0389-find-the-difference](https://github.com/Abrish-21/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0394-decode-string](https://github.com/Abrish-21/leetcode-solutions/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Abrish-21/leetcode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abrish-21/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abrish-21/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -36,6 +37,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Abrish-21/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abrish-21/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abrish-21/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0394-decode-string](https://github.com/Abrish-21/leetcode-solutions/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/Abrish-21/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/Abrish-21/leetcode-solutions/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/Abrish-21/leetcode-solutions/tree/master/0886-score-of-parentheses) |
@@ -437,6 +439,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abrish-21/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/Abrish-21/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
+| [0394-decode-string](https://github.com/Abrish-21/leetcode-solutions/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/Abrish-21/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Abrish-21/leetcode-solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Doubly-Linked List
