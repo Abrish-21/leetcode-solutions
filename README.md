@@ -9,6 +9,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abrish-21/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0032-longest-valid-parentheses](https://github.com/Abrish-21/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Abrish-21/leetcode-solutions/tree/master/0071-simplify-path) |
+| [0139-word-break](https://github.com/Abrish-21/leetcode-solutions/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/Abrish-21/leetcode-solutions/tree/master/0179-largest-number) |
 | [0389-find-the-difference](https://github.com/Abrish-21/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/Abrish-21/leetcode-solutions/tree/master/0394-decode-string) |
@@ -50,6 +51,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abrish-21/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Abrish-21/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abrish-21/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0139-word-break](https://github.com/Abrish-21/leetcode-solutions/tree/master/0139-word-break) |
 | [0268-missing-number](https://github.com/Abrish-21/leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Abrish-21/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Abrish-21/leetcode-solutions/tree/master/0389-find-the-difference) |
@@ -106,6 +108,7 @@
 | [0048-rotate-image](https://github.com/Abrish-21/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Abrish-21/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Abrish-21/leetcode-solutions/tree/master/0055-jump-game) |
+| [0139-word-break](https://github.com/Abrish-21/leetcode-solutions/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abrish-21/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0179-largest-number](https://github.com/Abrish-21/leetcode-solutions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Abrish-21/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -224,6 +227,7 @@
 | [0053-maximum-subarray](https://github.com/Abrish-21/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Abrish-21/leetcode-solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Abrish-21/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Abrish-21/leetcode-solutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Abrish-21/leetcode-solutions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Abrish-21/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/Abrish-21/leetcode-solutions/tree/master/0338-counting-bits) |
@@ -452,6 +456,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Abrish-21/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Abrish-21/leetcode-solutions/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/Abrish-21/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Abrish-21/leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
 ## Monotonic Stack
@@ -462,4 +467,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Abrish-21/leetcode-solutions/tree/master/0278-first-bad-version) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Abrish-21/leetcode-solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
