@@ -126,6 +126,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abrish-21/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Abrish-21/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/Abrish-21/leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/Abrish-21/leetcode-solutions/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/Abrish-21/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0643-maximum-average-subarray-i](https://github.com/Abrish-21/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Abrish-21/leetcode-solutions/tree/master/0645-set-mismatch) |
@@ -238,6 +239,7 @@
 | [0338-counting-bits](https://github.com/Abrish-21/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/Abrish-21/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Abrish-21/leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/Abrish-21/leetcode-solutions/tree/master/0494-target-sum) |
 | [1013-fibonacci-number](https://github.com/Abrish-21/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Abrish-21/leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Abrish-21/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
@@ -306,6 +308,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abrish-21/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0494-target-sum](https://github.com/Abrish-21/leetcode-solutions/tree/master/0494-target-sum) |
 ## Design
 |  |
 | ------- |
