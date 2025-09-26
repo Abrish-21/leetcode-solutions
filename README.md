@@ -134,6 +134,7 @@
 | [0690-employee-importance](https://github.com/Abrish-21/leetcode-solutions/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Abrish-21/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/Abrish-21/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Abrish-21/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0739-daily-temperatures](https://github.com/Abrish-21/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Abrish-21/leetcode-solutions/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Abrish-21/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
@@ -241,6 +242,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Abrish-21/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Abrish-21/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Abrish-21/leetcode-solutions/tree/master/0494-target-sum) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Abrish-21/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1013-fibonacci-number](https://github.com/Abrish-21/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Abrish-21/leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Abrish-21/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
@@ -372,6 +374,7 @@
 | [0179-largest-number](https://github.com/Abrish-21/leetcode-solutions/tree/master/0179-largest-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Abrish-21/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0680-valid-palindrome-ii](https://github.com/Abrish-21/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Abrish-21/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0768-partition-labels](https://github.com/Abrish-21/leetcode-solutions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Abrish-21/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/Abrish-21/leetcode-solutions/tree/master/0890-lemonade-change) |
