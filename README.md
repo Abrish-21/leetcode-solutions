@@ -190,6 +190,7 @@
 | [0012-integer-to-roman](https://github.com/Abrish-21/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Abrish-21/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Abrish-21/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Abrish-21/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Abrish-21/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abrish-21/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Abrish-21/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
@@ -234,6 +235,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Abrish-21/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Abrish-21/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Abrish-21/leetcode-solutions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Abrish-21/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Abrish-21/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Abrish-21/leetcode-solutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Abrish-21/leetcode-solutions/tree/master/0198-house-robber) |
@@ -501,4 +503,8 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Abrish-21/leetcode-solutions/tree/master/0486-predict-the-winner) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Abrish-21/leetcode-solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
