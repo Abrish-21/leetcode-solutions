@@ -1,7 +1,4 @@
-import sys
-from typing import List
 
-sys.setrecursionlimit(3000)
 class Solution:
     def canCross(self, stones: List[int]) -> bool:
         memo = defaultdict(int)
