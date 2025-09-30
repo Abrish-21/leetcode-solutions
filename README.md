@@ -139,6 +139,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Abrish-21/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/Abrish-21/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Abrish-21/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0747-min-cost-climbing-stairs](https://github.com/Abrish-21/leetcode-solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Abrish-21/leetcode-solutions/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Abrish-21/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/Abrish-21/leetcode-solutions/tree/master/0890-lemonade-change) |
@@ -250,6 +251,7 @@
 | [0486-predict-the-winner](https://github.com/Abrish-21/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Abrish-21/leetcode-solutions/tree/master/0494-target-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Abrish-21/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0747-min-cost-climbing-stairs](https://github.com/Abrish-21/leetcode-solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Abrish-21/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Abrish-21/leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Abrish-21/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
