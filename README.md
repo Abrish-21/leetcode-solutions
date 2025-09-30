@@ -110,6 +110,7 @@
 | [0048-rotate-image](https://github.com/Abrish-21/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Abrish-21/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Abrish-21/leetcode-solutions/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/Abrish-21/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0139-word-break](https://github.com/Abrish-21/leetcode-solutions/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abrish-21/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0179-largest-number](https://github.com/Abrish-21/leetcode-solutions/tree/master/0179-largest-number) |
@@ -239,6 +240,7 @@
 | [0053-maximum-subarray](https://github.com/Abrish-21/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Abrish-21/leetcode-solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Abrish-21/leetcode-solutions/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/Abrish-21/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Abrish-21/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Abrish-21/leetcode-solutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Abrish-21/leetcode-solutions/tree/master/0198-house-robber) |
@@ -260,6 +262,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Abrish-21/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/Abrish-21/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/Abrish-21/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/Abrish-21/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0695-max-area-of-island](https://github.com/Abrish-21/leetcode-solutions/tree/master/0695-max-area-of-island) |
