@@ -24,6 +24,7 @@
 | [0886-score-of-parentheses](https://github.com/Abrish-21/leetcode-solutions/tree/master/0886-score-of-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Abrish-21/leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1250-longest-common-subsequence](https://github.com/Abrish-21/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
+| [1272-invalid-transactions](https://github.com/Abrish-21/leetcode-solutions/tree/master/1272-invalid-transactions) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Abrish-21/leetcode-solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Abrish-21/leetcode-solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1720-crawler-log-folder](https://github.com/Abrish-21/leetcode-solutions/tree/master/1720-crawler-log-folder) |
@@ -65,6 +66,7 @@
 | [0690-employee-importance](https://github.com/Abrish-21/leetcode-solutions/tree/master/0690-employee-importance) |
 | [0768-partition-labels](https://github.com/Abrish-21/leetcode-solutions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Abrish-21/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
+| [1272-invalid-transactions](https://github.com/Abrish-21/leetcode-solutions/tree/master/1272-invalid-transactions) |
 | [1364-tuple-with-same-product](https://github.com/Abrish-21/leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Abrish-21/leetcode-solutions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2561-number-of-distinct-averages](https://github.com/Abrish-21/leetcode-solutions/tree/master/2561-number-of-distinct-averages) |
@@ -98,6 +100,7 @@
 | [0948-sort-an-array](https://github.com/Abrish-21/leetcode-solutions/tree/master/0948-sort-an-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Abrish-21/leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/Abrish-21/leetcode-solutions/tree/master/1095-two-city-scheduling) |
+| [1272-invalid-transactions](https://github.com/Abrish-21/leetcode-solutions/tree/master/1272-invalid-transactions) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Abrish-21/leetcode-solutions/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [2561-number-of-distinct-averages](https://github.com/Abrish-21/leetcode-solutions/tree/master/2561-number-of-distinct-averages) |
 ## Array
@@ -154,6 +157,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Abrish-21/leetcode-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1095-two-city-scheduling](https://github.com/Abrish-21/leetcode-solutions/tree/master/1095-two-city-scheduling) |
 | [1127-last-stone-weight](https://github.com/Abrish-21/leetcode-solutions/tree/master/1127-last-stone-weight) |
+| [1272-invalid-transactions](https://github.com/Abrish-21/leetcode-solutions/tree/master/1272-invalid-transactions) |
 | [1364-tuple-with-same-product](https://github.com/Abrish-21/leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Abrish-21/leetcode-solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Abrish-21/leetcode-solutions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
