@@ -54,6 +54,7 @@
 | [0012-integer-to-roman](https://github.com/Abrish-21/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abrish-21/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0139-word-break](https://github.com/Abrish-21/leetcode-solutions/tree/master/0139-word-break) |
+| [0146-lru-cache](https://github.com/Abrish-21/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0268-missing-number](https://github.com/Abrish-21/leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Abrish-21/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Abrish-21/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -335,6 +336,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Abrish-21/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0303-range-sum-query-immutable](https://github.com/Abrish-21/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Abrish-21/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Abrish-21/leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -481,6 +483,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abrish-21/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Abrish-21/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0146-lru-cache](https://github.com/Abrish-21/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/Abrish-21/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Abrish-21/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Abrish-21/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
@@ -498,6 +501,7 @@
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Abrish-21/leetcode-solutions/tree/master/0146-lru-cache) |
 | [1582-design-browser-history](https://github.com/Abrish-21/leetcode-solutions/tree/master/1582-design-browser-history) |
 ## Memoization
 |  |
