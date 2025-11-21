@@ -152,6 +152,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/Abrish-21/leetcode-solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Abrish-21/leetcode-solutions/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Abrish-21/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
+| [0859-design-circular-deque](https://github.com/Abrish-21/leetcode-solutions/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/Abrish-21/leetcode-solutions/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Abrish-21/leetcode-solutions/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Abrish-21/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
@@ -349,6 +350,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Abrish-21/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Abrish-21/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Abrish-21/leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0859-design-circular-deque](https://github.com/Abrish-21/leetcode-solutions/tree/master/0859-design-circular-deque) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Abrish-21/leetcode-solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1582-design-browser-history](https://github.com/Abrish-21/leetcode-solutions/tree/master/1582-design-browser-history) |
 ## Tree
@@ -496,6 +498,7 @@
 | [0203-remove-linked-list-elements](https://github.com/Abrish-21/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Abrish-21/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Abrish-21/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
+| [0859-design-circular-deque](https://github.com/Abrish-21/leetcode-solutions/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/Abrish-21/leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1582-design-browser-history](https://github.com/Abrish-21/leetcode-solutions/tree/master/1582-design-browser-history) |
 ## Recursion
@@ -553,6 +556,7 @@
 ## Queue
 |  |
 | ------- |
+| [0859-design-circular-deque](https://github.com/Abrish-21/leetcode-solutions/tree/master/0859-design-circular-deque) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Abrish-21/leetcode-solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Monotonic Queue
 |  |
