@@ -41,6 +41,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Abrish-21/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abrish-21/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/Abrish-21/leetcode-solutions/tree/master/0394-decode-string) |
+| [0456-132-pattern](https://github.com/Abrish-21/leetcode-solutions/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/Abrish-21/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/Abrish-21/leetcode-solutions/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/Abrish-21/leetcode-solutions/tree/master/0886-score-of-parentheses) |
@@ -135,6 +136,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Abrish-21/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abrish-21/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Abrish-21/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0456-132-pattern](https://github.com/Abrish-21/leetcode-solutions/tree/master/0456-132-pattern) |
 | [0486-predict-the-winner](https://github.com/Abrish-21/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Abrish-21/leetcode-solutions/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/Abrish-21/leetcode-solutions/tree/master/0498-diagonal-traverse) |
@@ -307,6 +309,7 @@
 | [0268-missing-number](https://github.com/Abrish-21/leetcode-solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Abrish-21/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/Abrish-21/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0456-132-pattern](https://github.com/Abrish-21/leetcode-solutions/tree/master/0456-132-pattern) |
 | [0633-sum-of-square-numbers](https://github.com/Abrish-21/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Abrish-21/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Abrish-21/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -516,6 +519,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/Abrish-21/leetcode-solutions/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/Abrish-21/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0943-sum-of-subarray-minimums](https://github.com/Abrish-21/leetcode-solutions/tree/master/0943-sum-of-subarray-minimums) |
 ## Interactive
@@ -538,4 +542,8 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Abrish-21/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Abrish-21/leetcode-solutions/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
