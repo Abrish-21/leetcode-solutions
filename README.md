@@ -129,6 +129,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Abrish-21/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0260-single-number-iii](https://github.com/Abrish-21/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Abrish-21/leetcode-solutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Abrish-21/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Abrish-21/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Abrish-21/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Abrish-21/leetcode-solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -191,6 +192,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Abrish-21/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abrish-21/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Abrish-21/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Abrish-21/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/Abrish-21/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/Abrish-21/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Abrish-21/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
