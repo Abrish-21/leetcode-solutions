@@ -1,20 +1,25 @@
-class Solution(object):
-    def findAnagrams(self, s, p):
-        """
-        :type s: str
-        :type p: str
-        :rtype: List[int]
-        """
-        result = []
-        target  = collections.Counter(p)
-        window = collections.Counter(s[: len(p)-1])
-        for i in range(len(p)-1, len(s)):
-            current_char = s[i]
-            window[current_char] += 1
-            if window == target:
-                result.append(i- len(p) + 1)
-            window[s[i-len(p) + 1]] -= 1
-            if window[s[i-len(p) + 1]] == 0:
-                del window[s[i-len(p) + 1]]
-        return result
+class Solution:
+    def findAnagrams(self, s: str, p: str) -> List[int]:
+        k = len(p)
+        p_counter = Counter(p)
+        s_counter = Counter(s[:k-1])
+
+        start = 0
+        output = []
+        for end in range(k-1, len(s)):
+            curr = s[end]
+            s_counter[curr] += 1
+
+            if s_counter == p_counter:
+                output.append(start)
+
+            # removing the left most    
+            s_counter[s[start]] -= 1
+            if s_counter[s[start]] == 0:
+                del s_counter[s[start]]
+            start += 1
+
+        return output
+
+
         
